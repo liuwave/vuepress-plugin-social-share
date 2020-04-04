@@ -95,3 +95,6 @@ typings/
 
 /tests/dist
 /tests/.temp
+
+.idea
+.npmrc

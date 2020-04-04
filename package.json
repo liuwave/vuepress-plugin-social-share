@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-plugin-social-share",
+  "name": "@liuwave/vuepress-plugin-social-share",
   "version": "0.2.1",
   "description": "Social sharing plugin for VuePress",
   "keywords": [
